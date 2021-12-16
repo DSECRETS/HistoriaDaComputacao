@@ -1,6 +1,8 @@
 
 # Site para o livro da História da Computação.
 
+URL do site: https://dsecrets.github.io/HistoriaDaComputacao/
+
 Autores do website pelo GitHub.
 
 | Foto | Nome | Codinome | Email |
