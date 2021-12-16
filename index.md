@@ -62,7 +62,8 @@
 ### 00 – desligado 01 – carga baixa
 ### 10 – carga moderada 11 – carga alta
 ### Todo o sistema lógico dos computadores atuais, inclusive o do qual você está usando, usa a teoria de Boole de forma prática.
-## 1.6	Computadores Pré-moderno:
+## 1.6 Computadores Pré-moderno:
+
 ### Na primeira metade do século XX, várias computadores mecânicos foram desenvolvidos, sendo que com o passar do tempo, componentes eletrônicos foram sendo adicionados aos projetos. Em 1931, Vannevar Bush implementou um computador com uma arquitetura binária propriamente dita, usando os bits 0 e 1. A base decimal exigia que a eletricidade assumisse 10 voltagens diferentes, o que era muito difícil de ser controlado. Por isso, Bush fez uso da lógica de Boole, onde somente dois níveis de voltagem já eram suficientes. A segunda guerra mundial foi um grande incentivo no desenvolvimento de computadores, visto que as máquinas cada vez mais estavam se tornando mais úteis em tarefas de desencriptação de mensagens inimigas e criação de novas armas mais inteligentes. Entre os projetos desenvolvidos neste período, o que mais se destacou foi o Mark I, no ano de 1944, criado pela Universidade de Harvard (EUA), e o Colossus, em 1946, criado por Allan Turing que será comentado mais nesse trabalho.
 
 ### Livro completo em pdf [AQUI NO DRIVE](https://drive.google.com/file/d/1McsFNQ5FqRwZS9M60lo5SXhMm5kElPiZ/view?usp=sharing)
@@ -73,13 +74,13 @@
 
 ## Autores do website pelo GitHub.
 
-| Foto | Nome | Codinome | Email |
+| Foto | Nome | RA | Email |
 | ------ | ---- | -------- | ----- |
-| ![](https://i.imgur.com/vPAIs0A.jpg?width=400)  | Yuri | sem apelido | yurimatsumoto@alunos.utfpr.edu.br
-| ![](https://i.imgur.com/cmOzji6.jpg?width=400)  | Alison | sem apelido | alison.2021@alunos.utfpr.edu.br
-| ![](https://i.imgur.com/8iWHdZP.png?width=400)  | Vithor Augusto Mohr | vithormohr | vit.mohr@gmail.com
-| ![](https://i.imgur.com/X3zlxSS.jpg?width=400)  | Monica | sem apelido | monicamackert@alunos.utfpr.edu.br
-| ![](https://i.imgur.com/H7GEyhm.jpg?width=400)  | Daniel| DSECRETS | danielnogueira@alunos.utfpr.edu.br
+| ![](https://i.imgur.com/vPAIs0A.jpg?width=400)  | Yuri Matsumoto Santos  |  2399687| yurimatsumoto@alunos.utfpr.edu.br
+| ![](https://i.imgur.com/cmOzji6.jpg?width=400)  | Alison Oliveira da Silva  |  2399547  | alison.2021@alunos.utfpr.edu.br
+| ![](https://i.imgur.com/8iWHdZP.png?width=400)  | Vithor Augusto Mohr | 2343142 | vit.mohr@gmail.com
+| ![](https://i.imgur.com/X3zlxSS.jpg?width=400)  | Monica Paula Oliveira Mackert  | 2337223  | monicamackert@alunos.utfpr.edu.br
+| ![](https://i.imgur.com/H7GEyhm.jpg?width=400)  | Daniel Murilo dos Santos Noueira| 2417006 | danielnogueira@alunos.utfpr.edu.br
 
 
 
