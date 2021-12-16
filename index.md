@@ -1,6 +1,6 @@
-## Livro Engenharia de Computação
+# Livro Engenharia da Computação
 
-# Autores do website pelo GitHub.
+## Autores do website pelo GitHub.
 
 | Foto | Nome | Codinome | Email |
 | ------ | ---- | -------- | ----- |
