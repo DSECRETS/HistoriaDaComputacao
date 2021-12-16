@@ -62,7 +62,7 @@
 ### 00 – desligado 01 – carga baixa
 ### 10 – carga moderada 11 – carga alta
 ### Todo o sistema lógico dos computadores atuais, inclusive o do qual você está usando, usa a teoria de Boole de forma prática.
- ## 1.6	Computadores Pré-moderno:
+## 1.6	Computadores Pré-moderno:
 ### Na primeira metade do século XX, várias computadores mecânicos foram desenvolvidos, sendo que com o passar do tempo, componentes eletrônicos foram sendo adicionados aos projetos. Em 1931, Vannevar Bush implementou um computador com uma arquitetura binária propriamente dita, usando os bits 0 e 1. A base decimal exigia que a eletricidade assumisse 10 voltagens diferentes, o que era muito difícil de ser controlado. Por isso, Bush fez uso da lógica de Boole, onde somente dois níveis de voltagem já eram suficientes. A segunda guerra mundial foi um grande incentivo no desenvolvimento de computadores, visto que as máquinas cada vez mais estavam se tornando mais úteis em tarefas de desencriptação de mensagens inimigas e criação de novas armas mais inteligentes. Entre os projetos desenvolvidos neste período, o que mais se destacou foi o Mark I, no ano de 1944, criado pela Universidade de Harvard (EUA), e o Colossus, em 1946, criado por Allan Turing que será comentado mais nesse trabalho.
 
 ### Livro completo em pdf [AQUI NO DRIVE](https://drive.google.com/file/d/1McsFNQ5FqRwZS9M60lo5SXhMm5kElPiZ/view?usp=sharing)
