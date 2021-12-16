@@ -1,4 +1,4 @@
-# Livro Engenharia da Computação
+# Livro História da Computação
 
 ### O objetio desse site é compartilhar o conteúdo do livro História da Computação, feito pelos alunos da Universidade Tecnológica Federal do Paraná, Campus Pato Branco.
 
